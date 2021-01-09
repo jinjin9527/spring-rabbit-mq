@@ -1,0 +1,8 @@
+# Project exclude paths
+/spring-rabbit-mq-01-helloword/target/
+/spring-rabbit-mq-02-workqueues/target/
+/spring-rabbit-mq-03-publish-Subscribe/target/
+/spring-rabbit-mq-04-routing/target/
+/spring-rabbit-mq-05-topics/target/
+/spring-rabbit-mq-06-rpc/target/
+/spring-rabbit-mq-07-publisher-confirms/target/
