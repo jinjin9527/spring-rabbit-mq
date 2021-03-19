@@ -1,0 +1,15 @@
+spring:
+  rabbitmq:
+    username: admin
+    password: admin123
+    host: localhost
+    port: 5672
+    virtual-host: /
+    publisher-confirm-type: correlated
+  datasource:
+    url: jdbc:mysql://localhost:3307/rabbitmq_study?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+server:
+  port: 8083

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -11,8 +12,13 @@
         <module name="spring-rabbit-mq-04-routing" />
         <module name="spring-rabbit-mq-07-publisher-confirms" />
         <module name="spring-rabbit-mq-06-rpc" />
+        <module name="spring-rabbit-mq-system-dispatch" />
         <module name="spring-rabbit-mq-01-helloword" />
         <module name="spring-rabbit-mq-03-publish-Subscribe" />
+        <module name="spring-rabbit-mq-order-consumer" />
+        <module name="spring-rabbit-mq-system-order" />
+        <module name="spring-rabbit-mq-order-producer" />
+        <module name="spring-rabbit-mq-kuangstudy" />
       </profile>
     </annotationProcessing>
   </component>
@@ -25,6 +31,11 @@
       <module name="spring-rabbit-mq-05-topics" options="-parameters" />
       <module name="spring-rabbit-mq-06-rpc" options="-parameters" />
       <module name="spring-rabbit-mq-07-publisher-confirms" options="-parameters" />
+      <module name="spring-rabbit-mq-kuangstudy" options="-parameters" />
+      <module name="spring-rabbit-mq-order-consumer" options="-parameters" />
+      <module name="spring-rabbit-mq-order-producer" options="-parameters" />
+      <module name="spring-rabbit-mq-system-dispatch" options="-parameters" />
+      <module name="spring-rabbit-mq-system-order" options="-parameters" />
     </option>
   </component>
 </project>

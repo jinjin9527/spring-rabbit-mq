@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\spring-rabbit-mq-order-producer\src\test\java\com\sylinx\rabbitmq\order\producer\OrderRabbitmqProducerTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbit-mq-system-order\src\test\java\com\sylinx\rabbitmq\systemorder\service\OrderServiceTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\all\Producer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\direct\Consumer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\direct\Producer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\routing\Consumer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\routing\Producer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\simple\Consumer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\simple\Producer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\topic\Producer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\work\fair\Producer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\work\lunxun\Producer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\work\lunxun\Work1.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\spring-rabbitmq-mq-kuangstudy\src\main\java\com\sylinx\kuangstudy\rabbitmq\work\lunxun\Work2.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
